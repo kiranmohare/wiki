@@ -1,0 +1,3 @@
+testcase\WikiAdvancedSearchTest.class
+pageobject\AdvancedSearchPage.class
+pageobject\WikiHomePage.class
